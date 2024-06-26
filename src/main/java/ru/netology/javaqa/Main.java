@@ -10,4 +10,4 @@ public class Main {
         actual = service.calculate(5_000, false);
         System.out.println("2." + expected + "==?==" + actual);
     }
-}n
+}
